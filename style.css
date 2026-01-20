@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+h2 {
+  color:rgb(217, 145, 119);
+  font-style: italic;
+}
+ul {
+  list-style-type: square;
+}
