@@ -1,0 +1,26 @@
+.blue-text {
+  color: rgb(28, 59, 214);
+}
+.red {
+  color: rgb(253, 19, 19);
+}
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+}
+.border {
+  border: 2px solid gray;
+  background-color: beige;
+  padding: 10px;
+}
+.round {
+  border-radius: 5px;
+}
+.round-big {
+  border-radius: 20px;
+}
+.text-center {
+  text-align: center;
+}
